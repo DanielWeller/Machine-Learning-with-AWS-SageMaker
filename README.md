@@ -12,7 +12,7 @@ This repository contains code and associated files for deploying ML models using
 
 [Plagiarism Detector](https://github.com/DanielWeller/Machine-Learning-with-AWS-SageMaker/tree/main/ML_SageMaker_Studies-master/Project_Plagiarism_Detection): Build an end-to-end plagiarism classification model. Apply your skills to clean data, extract meaningful features, and deploy a plagiarism classifier in SageMaker.
 
-## Software and Libraries
+### Software and Libraries
 
 This project uses the following software and Python libraries:
 
